@@ -2,7 +2,6 @@
 #### SUCCESS ENGINEER
 ![SUCCESS ENGINEER](hackerman.gif)
 
-A true up-and-coming visionary witha proven record of hard work ethicand forward-thinking. Jacob Pech is a highly motivated servant leadergrinding towards his destiny to shapethe future of tomorrow.
 
 Skills: Automation | Consulting | Web Development | Cybersecurity | Virtualization
 
