@@ -11,7 +11,7 @@ Skills: Automation | Consulting | Web Development | Cybersecurity | Virtualizati
 
 ## Giving Back
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=L398E7PKP47E8&currency_code=USD&source=url) If this project has helped you and you'd like to contribute back, you can always [buy me a ☕](https://www.paypal.com/donate/?business=6LRWX3PGM4376&no_recurring=0&currency_code=USD)!
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=L398E7PKP47E8&currency_code=USD&source=url) If my projects have helped you and you'd like to contribute, you can always [buy me a ☕](https://www.paypal.com/donate/?business=6LRWX3PGM4376&no_recurring=0&currency_code=USD)!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pechjacob)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://pechjacob.github.io/Current-Resume//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://think-tank-consulting.com/)  
