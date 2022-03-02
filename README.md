@@ -3,7 +3,7 @@
 ![SUCCESS ENGINEER](hackerman.gif)
 
 
-Skills: Automation | Consulting | Web Development | Cybersecurity | Virtualization
+Skills: Automation | Consulting | Web Development | Cybersecurity | Virtualization | Business Development
 
 - 🔭 I’m currently working on My second startup
 - 📫 How to reach me: https://pechjacob.github.io/Current-Resume/
