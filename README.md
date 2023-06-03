@@ -5,7 +5,7 @@
 
 Skills: Automation | Consulting | Web Development | Cybersecurity | 3D Modeling | SAAS
 
-- 🔭 I’m currently working on My second startup
+- 🔭 I like learning
 - 📫 How to reach me: https://pechjacob.github.io/Current-Resume/
 - ⚡ Bears | Beets | Battlestar Galactica
 
