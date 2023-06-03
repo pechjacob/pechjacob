@@ -3,11 +3,11 @@
 ![SUCCESS ENGINEER](hackerman.gif)
 
 
-Skills: Automation | Consulting | Web Development | Cybersecurity | Virtualization | Business Development
+Skills: Automation | Consulting | Web Development | Cybersecurity | 3D Modeling | SAAS
 
 - 🔭 I’m currently working on My second startup
 - 📫 How to reach me: https://pechjacob.github.io/Current-Resume/
-- ⚡ Fun fact: Bears beats battlestar galactica
+- ⚡ Bears | Beets | Battlestar Galactica
 
 ## Giving Back
 
